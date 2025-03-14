@@ -26,4 +26,10 @@ Right 50% → Contains project description.
 
 • Dynamic Typography: Uses Orbitron and Roboto fonts for a futuristic feel.
 
-Gradient Title: The heading uses a stylish gradient effect.
+• Gradient Title: The heading uses a stylish gradient effect.
+
+
+![image](https://github.com/user-attachments/assets/3852df22-27eb-4230-9742-a0185b918bef)
+
+
+#### Check out the animation on : https://varshasharon.github.io/spline-website/
